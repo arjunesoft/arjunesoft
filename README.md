@@ -1,4 +1,4 @@
-![About Me](https://github.com/arjunelabs/arjunelabs/raw/master/bio.gif)
+![About Me](https://github.com/arjunelabs/arjunelabs/raw/master/bio2.gif)
 
 <!--
 **arjunelabs/arjunelabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
